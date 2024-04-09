@@ -1,4 +1,4 @@
-# Enhancing Lumbar Vertebrae Detection Using Neighboring Spatial Relationships in X-ray Images
+# Exploring Neighbor Spatial Relationships for Enhanced Lumbar Vertebrae Detection in X-ray Images
 We propose a novel approach to enhance vertebrae detection accuracy by exploiting both global and local spatial relationships between neighboring vertebrae. 
 
 We conduct extensive experiments on two lumbar spine datasets.
